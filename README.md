@@ -6,5 +6,10 @@
 - make them all easy to operate
   - PC / tablet / mobile
 - try to stick to universal design
+- study
+  - html
+  - css
+  - javascript
+  - Node.js
 
 ## references
