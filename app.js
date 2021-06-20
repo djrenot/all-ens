@@ -12,3 +12,9 @@ const server = http.createServer((req, res) => {
 server.listen(port, hostname, () => {
   console.log(`Server running at http://${hostname}:${port}/`);
 });
+
+function latest_update() {
+  let updated = document.lastModified;
+  var footer_updated = document.getElementById('updated');
+  return footer_updated.insertAdjacentHTML('afterbegin',updated);
+}
