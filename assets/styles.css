@@ -1,0 +1,12 @@
+html {
+  scroll-behavior: smooth;
+}
+
+::-moz-selection {
+  background: #5cd1ff;
+}
+
+::selection {
+  background: #5cd1ff;
+}
+/*# sourceMappingURL=styles.css.map */
