@@ -13,3 +13,5 @@
   - Node.js
 
 ## references
+- [Headers](https://developer.mozilla.org/en-US/docs/Web/API/Headers)
+  - [Content-Security-Policy](https://developer.mozilla.org/ja/docs/Web/HTTP/Headers/Content-Security-Policy)
