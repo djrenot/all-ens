@@ -1,3 +1,4 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100;300;400;500;700;900&display=swap");
 html {
   scroll-behavior: smooth;
 }
@@ -8,5 +9,19 @@ html {
 
 ::selection {
   background: #5cd1ff;
+}
+
+body {
+  color: #333;
+  font-family: 'Noto Sans JP', sans-serif;
+}
+
+#app-list ul li {
+  color: grey;
+}
+
+#app-list ul li.working {
+  color: #333;
+  font-weight: bold;
 }
 /*# sourceMappingURL=styles.css.map */

@@ -1,7 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100;300;400;500;700;900&display=swap');
+
+$body-text: #333;
+
 html {
   scroll-behavior: smooth;
 }
 
 ::selection {
   background: #5cd1ff;
+}
+
+body{
+  color: $body-text;
+  font-family: 'Noto Sans JP', sans-serif;
+}
+
+#app-list ul{
+  li{
+    color: grey;
+    &.working {
+      color: $body-text;
+      font-weight: bold;
+    }
+  }
 }
