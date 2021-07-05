@@ -15,3 +15,4 @@
 ## references
 - [Headers](https://developer.mozilla.org/en-US/docs/Web/API/Headers)
   - [Content-Security-Policy](https://developer.mozilla.org/ja/docs/Web/HTTP/Headers/Content-Security-Policy)
+- [css error](https://qiita.com/baby-0105/items/0356b0af4ab4585d86c4)
